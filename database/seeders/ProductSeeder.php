@@ -28,11 +28,11 @@ class ProductSeeder extends Seeder
                 'description' => 'Noise-cancelling over-ear headphones with long battery life.',
             ],
             [
-                'name' => 'Coffee Maker',
-                'category' => 'Home Appliances',
-                'price' => 89.99,
+                'name' => 'Asus laptop',
+                'category' => 'Electronics',
+                'price' => 899.99,
                 'stock' => 40,
-                'description' => 'Programmable coffee maker with a built-in grinder.',
+                'description' => 'High-performance laptop with latest processor and graphics.',
             ],
         ];
 
